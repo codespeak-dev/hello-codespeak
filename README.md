@@ -41,6 +41,10 @@ cd <repo name>
 uv sync
 uv run python manage.py makemigrations
 uv run python manage.py migrate
+
+# if your app uses Django auth
+uv run manage.py createsuperuser
+
 uv run python manage.py runserver
 ```
 
