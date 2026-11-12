@@ -1,3 +1,7 @@
+> [!NOTE]
+> This template is archived and no longer maintained: the CodeSpeak CLI and build service it relies on are being discontinued.
+> See [What's next for CodeSpeak](https://codespeak.dev/blog/spindle-20260713).
+
 Quick Start
 ===========
 
